@@ -103,7 +103,7 @@ border-style: outset;
 border-width: 2px;</string>
     </property>
     <property name="placeholderText">
-     <string>Valor do Produto</string>
+     <string>Valor do Produto ex(12.00)</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_3">
@@ -173,6 +173,22 @@ border-width: 2px;</string>
     </property>
     <property name="text">
      <string>Adicionar</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>126</x>
+      <y>120</y>
+      <width>311</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 0, 0);</string>
+    </property>
+    <property name="text">
+     <string/>
     </property>
    </widget>
   </widget>
